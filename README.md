@@ -11,3 +11,8 @@ This is a fully responsive layout of a typical calculator natively found in the 
 ```bash
 $ git clone https://github.com/KushalBhanot/Calculator-Layout-iOS13.git
 ```
+
+## Screenshots
+![Launching Screen](https://github.com/KushalBhanot/Calculator-Layout-iOS13/blob/master/Screenshots/Launching%20Screen.png)
+![Vertical](https://github.com/KushalBhanot/Calculator-Layout-iOS13/blob/master/Screenshots/Vertical.png)
+![Horizontal](https://github.com/KushalBhanot/Calculator-Layout-iOS13/blob/master/Screenshots/Horizontal.png)
