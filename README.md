@@ -1,6 +1,4 @@
-
 <h1 align="center">
-  <br>
   Xylophone-iOS13
   <br>
 </h1>
