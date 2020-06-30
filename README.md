@@ -31,6 +31,7 @@
 </p>
 
 # Calculator-Layout-iOS13
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Calculator-Layout-iOS13.svg)](http://hits.dwyl.com/KushalBhanot/Calculator-Layout-iOS13)<br>
 This is a fully responsive layout of a typical calculator natively found in the iOS ecosystem.
 
 ## Cloning
